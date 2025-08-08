@@ -1,0 +1,8 @@
+project/
+├── index.html          # Главная страница
+├── register.html       # Регистрация/Вход
+├── dashboard.html      # Личный кабинет
+├── wallet.html         # Ввод/вывод средств
+├── referral.html       # Реферальная система
+├── firebase.js         # Инициализация Firebase
+└── style.css           # Общие стили (iOS-дизайн)
